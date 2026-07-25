@@ -3,7 +3,7 @@
   "products": [
     {
       "store": "Liverpool",
-      "url": "PEGA_AQUI_LA_URL_DIRECTA_DEL_PRODUCTO",
+      "url": "https://www.liverpool.com.mx/tienda/mac/catst2145073",
       "required_keywords": [
         "macbook",
         "pro",
@@ -19,7 +19,71 @@
     },
     {
       "store": "Amazon México",
-      "url": "PEGA_AQUI_LA_URL_DIRECTA_DEL_PRODUCTO",
+      "url": "https://www.amazon.com.mx/dp/B0GR1J1HSY?th=1",
+      "required_keywords": [
+        "macbook",
+        "pro",
+        "m5"
+      ],
+      "excluded_keywords": [
+        "reacondicionado",
+        "refurbished",
+        "usado",
+        "open box",
+        "caja abierta"
+      ]
+    },
+    {
+      "store": "Mercado",
+      "url": "https://listado.mercadolibre.com.mx/macbook-pro#D[A:macbook%20pro]",
+      "required_keywords": [
+        "macbook",
+        "pro",
+        "m5"
+      ],
+      "excluded_keywords": [
+        "reacondicionado",
+        "refurbished",
+        "usado",
+        "open box",
+        "caja abierta"
+      ]
+    },
+    {
+      "store": "Walmart",
+      "url": "https://www.walmart.com.mx/search?q=macbook+pro",
+      "required_keywords": [
+        "macbook",
+        "pro",
+        "m5"
+      ],
+      "excluded_keywords": [
+        "reacondicionado",
+        "refurbished",
+        "usado",
+        "open box",
+        "caja abierta"
+      ]
+    },
+    {
+      "store": "Macstore",
+      "url": "https://www.macstoreonline.com.mx/colecciones/macbook-pro",
+      "required_keywords": [
+        "macbook",
+        "pro",
+        "m5"
+      ],
+      "excluded_keywords": [
+        "reacondicionado",
+        "refurbished",
+        "usado",
+        "open box",
+        "caja abierta"
+      ]
+    },
+    {
+      "store": "ishop",
+      "url": "https://www.ishopmixup.com/mac/macbook-pro?order=OrderByPriceASC",
       "required_keywords": [
         "macbook",
         "pro",
