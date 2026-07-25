@@ -1,0 +1,37 @@
+{
+  "max_price_mxn": 38000,
+  "products": [
+    {
+      "store": "Liverpool",
+      "url": "PEGA_AQUI_LA_URL_DIRECTA_DEL_PRODUCTO",
+      "required_keywords": [
+        "macbook",
+        "pro",
+        "m5"
+      ],
+      "excluded_keywords": [
+        "reacondicionado",
+        "refurbished",
+        "usado",
+        "open box",
+        "caja abierta"
+      ]
+    },
+    {
+      "store": "Amazon México",
+      "url": "PEGA_AQUI_LA_URL_DIRECTA_DEL_PRODUCTO",
+      "required_keywords": [
+        "macbook",
+        "pro",
+        "m5"
+      ],
+      "excluded_keywords": [
+        "reacondicionado",
+        "refurbished",
+        "usado",
+        "open box",
+        "caja abierta"
+      ]
+    }
+  ]
+}
